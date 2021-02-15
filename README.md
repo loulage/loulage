@@ -29,8 +29,8 @@
 
 ### Connect with me
 
-[<img align="left" alt="Daniel L. Miranda | LinkedIn" width="22px" src="icons/github.png" />](https://www.linkedin.com/in/lourencolage/)
-[<img align="left" alt="Daniel L. Miranda | Email" width="22px" src="icons/gmail.png" />](mailto:loulage@gmail.com)
+[<img align="left" alt="Lourenço Lage" | LinkedIn" width="22px" src="icons/linkedin.png" />](https://www.linkedin.com/in/lourencolage/)
+[<img align="left" alt="Lourenço Lage" | Email" width="22px" src="icons/gmail.png" />](mailto:loulage@gmail.com)
 
 <br />
 
