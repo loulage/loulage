@@ -2,7 +2,7 @@
 
 ### About me
 
-- 🧔🏽 I'm 30 years old, brazilian living in Belo Horizonte - MG
+- 👨‍💻 I'm 30 years old, brazilian living in Belo Horizonte - MG
 - 🌱 I’m currently taking a Full Stack Development course at [Trybe](https://www.betrybe.com/)
 - 👯 I’m looking for job oportunities as a software developer
 - 🥅 2021 Goals: Complete the Software Developer course I'm enrolled in: [Trybe](https://www.betrybe.com/)
