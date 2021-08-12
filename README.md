@@ -3,9 +3,9 @@
 ### About me
 
 - 👨‍💻 I'm 31 years old, brazilian living in Belo Horizonte - MG
-- 🌱 I’m currently taking a Full Stack Development course at [Trybe](https://www.betrybe.com/)
-- 👁️ I’m looking for job oportunities as a software developer
-- 🥅 2021 Goals: Complete the Software Developer course I'm enrolled in: [Trybe](https://www.betrybe.com/)
+- 🌱 I’m currently taking a Full Stack Development course at [Trybe](https://www.betrybe.com/) (DONE)
+- 👁️ I’m looking for job oportunities as a software developer (HIRED!)
+- 🥅 2021 Goals: Complete the Software Developer course I'm enrolled in: [Trybe](https://www.betrybe.com/) (CHECK)
 - 📚 Always improving my programming and communication skills
 - ⚡ I love technology, video games, and also interested in psychology, sociology and geopolitcs.
 
