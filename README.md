@@ -7,7 +7,7 @@
 - 👁️ I’m looking for job oportunities as a software developer (HIRED!)
 - 🥅 2021 Goals: Complete the Software Developer course I'm enrolled in: [Trybe](https://www.betrybe.com/) (CHECK)
 - 📚 Always improving my programming and communication skills
-- ⚡ I love technology, video games, and also interested in psychology, sociology and geopolitcs.
+- ⚡ I love technology, video games, and also interested in psychology, sociology and geopolitcs and specially in design.
 
 ### Languages and Tools
 
